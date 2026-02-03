@@ -1,0 +1,26 @@
+
+        body {
+            background-color: pink;
+        }
+
+        .container {
+            background-color: beige;
+        }
+
+        #first,h1 {
+            background-color: bisque;
+        }
+
+        .second,.constant {
+            background-color: purple;
+            color: aliceblue;
+        }
+        p{
+            color: yellow;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        /* aljdakdjkajkaj */
+       

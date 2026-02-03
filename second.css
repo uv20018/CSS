@@ -1,0 +1,14 @@
+ .nine{
+            border: 2px solid salmon;
+            width: 500px;
+            height: 951px;
+            background-image: url(mickey.png);
+            background-repeat:no-repeat;
+            background-size: 63px 45px;
+            /* background-position: center; */
+            background-attachment: fixed;
+            
+        }
+        .bru{
+            background-color: brown;
+        }
